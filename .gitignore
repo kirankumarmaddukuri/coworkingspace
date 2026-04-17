@@ -1,7 +1,4 @@
-# ============================================
-# Co-working Space Desk Booking System
-# GUVI Geek Network Pvt Ltd
-# ============================================
+
 
 # OS
 .DS_Store
@@ -97,15 +94,7 @@ dist-ssr
 .Trashes
 ehthumbs.db
 
-# Docker (if used)
-docker-compose.override.yml
-.dockerignore
 
-# Gradle (if added later)
-.gradle/
-gradle-app.setting
-!gradle-wrapper.jar
-gradle-wrapper.properties
 
 # IntelliJ
 .idea_modules/
